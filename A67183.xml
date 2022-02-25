@@ -1,0 +1,424 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Righteousness encouraged and rewarded with an everlasting remembrance in a sermon at the funeral of the right worshipful Sir Roger Bradshaigh of Haigh, Knight and Baronet, who died at Chester on Monday, March 31, and was buried at Wigan, Friday, Apr. 4, 1684 / by Richard Wroe ...</title>
+            <author>Wroe, Richard, 1641-1717.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67183</idno>
+            <idno type="STC">Wing W3727</idno>
+            <idno type="STC">ESTC R38322</idno>
+            <idno type="EEBO-CITATION">17295185</idno>
+            <idno type="OCLC">ocm 17295185</idno>
+            <idno type="VID">106354</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106354)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1163:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Righteousness encouraged and rewarded with an everlasting remembrance in a sermon at the funeral of the right worshipful Sir Roger Bradshaigh of Haigh, Knight and Baronet, who died at Chester on Monday, March 31, and was buried at Wigan, Friday, Apr. 4, 1684 / by Richard Wroe ...</title>
+                  <author>Wroe, Richard, 1641-1717.</author>
+                  <author>Shaw, S. Elegy upon Sir Roger Bradshaigh.</author>
+               </titleStmt>
+               <extent>[8], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Tooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes (p. 25-28) "An elegy upon Sir Roger Bradshaigh" [in Latin], signed: S. Shaw, A.M.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bradshaigh, Roger, --  Sir, d. 1684.</term>
+               <term>Bible. --  O.T. --  Psalms CXII, 6 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106354:1"/>
+            <pb facs="tcp:106354:1" rendition="simple:additions"/>
+            <p>RIGHTEOUSNESS Encouraged and Rewarded with an Everlaſting Remembrance.</p>
+            <p>IN A SERMON AT The FUNERAL of the Right Worſhipful Sir <hi>Roger Bradſhaigh</hi> of <hi>Haigh,</hi> Knight and Baronet. Who died at <hi>Cheſter</hi> on <hi>Monday, March</hi> 31, and was Buried at <hi>Wigan, Friday Apr.</hi> 4. 1684.</p>
+            <p>By <hi>RICHARD WROE,</hi> B. D.</p>
+            <bibl>Prov. 10. 7.</bibl>
+            <q>The Memory of the Juſt is bleſſed; but the Name of the Wicked ſhall rot.</q>
+            <bibl>Eccleſ. 44. 7.</bibl>
+            <q>They have left a Name behind them, that their Praiſes might be reported.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benj. Tooke</hi> at the Ship in St. <hi>Paul</hi>'s <hi>Church-Yard,</hi> 1684.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:106354:2"/>
+            <pb facs="tcp:106354:2"/>
+            <head>To the Right Worſhipful Sir <hi>ROGER BRADSHAIGH</hi> OF HAIGH, KNIGHT and BARONET.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce this <hi>Sermon</hi> was preached at your Requeſt, and is now made publick through your Importunity, it challenges a Right in your <hi>Patronage,</hi> and being you will needs have it ſo, that it muſt appear abroad, you are like to an<g ref="char:EOLhyphen"/>ſwer for the Imperfections of it.</p>
+            <p>I hope you know me ſo well as to be<g ref="char:EOLhyphen"/>lieve me when I aſſure you, that the No<g ref="char:EOLhyphen"/>tice I had both of the <hi>Occaſion</hi> and your <hi>Deſires,</hi> were equally unwelcome and ſurpriſing; and your ſelf and divers others
+<pb facs="tcp:106354:3"/> well know, that the Circumſtances I was then in, both ſtraitned my <hi>Time,</hi> and robbed me of that <hi>Freedom</hi> of <hi>Mind</hi> which was requiſite for ſuch an <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>taking.</p>
+            <p>But ſince you were pleaſed to judge ſo favourably of the enſuing Diſcourſe upon hearing of it, as to deſire a <hi>Copy,</hi> and upon Peruſal to think it fit for the <hi>Preſs,</hi> and urge the <hi>Publication,</hi> I have yielded to your Importunity, being loth you ſhould be denied any thing that is in my Power to grant, and take this Opportunity to tell the <hi>World</hi> how much I <hi>honour</hi> you, and value my ſelf upon your <hi>Eſteem</hi> and <hi>Friendſhip.</hi>
+            </p>
+            <p>And I muſt be ſo juſt as to acknowledge thoſe real <hi>Reſpects</hi> and <hi>frequent Obli<g ref="char:EOLhyphen"/>gations</hi> which I have received ever ſince I was firſt known at <hi>Haigh:</hi> For which being able to make no other Requital, I offer you this ſmall Teſtimony of my <hi>Gra<g ref="char:EOLhyphen"/>titude,</hi>
+               <pb facs="tcp:106354:3"/> as an Earneſt of further Payment when I have any thing better worth your Ac<g ref="char:EOLhyphen"/>ceptance: And it will be abundant Satiſ<g ref="char:EOLhyphen"/>faction to my ſelf, if I may any way con<g ref="char:EOLhyphen"/>tribute to the Honour and Reputation of your <hi>Family,</hi> or the Memory of your <hi>de<g ref="char:EOLhyphen"/>ceaſed Father.</hi>
+            </p>
+            <p>I reckon my ſelf happy that I was ſo well acquainted with his <hi>Worth,</hi> as to be able in ſome meaſure to do him <hi>Right;</hi> and that the <hi>Character</hi> I have drawn of him was ſo well approved by thoſe that heard it, and were able both to <hi>judge</hi> and <hi>witneſs</hi> the Truth of it. But I ſhall think my ſelf more happy, if by recommend<g ref="char:EOLhyphen"/>ing <hi>one ſo uſeful in his Generation,</hi> of ſuch <hi>approved Loyalty and Integrity,</hi> I may not only publiſh his <hi>Worth,</hi> but provoke others to an Emulation of his <hi>Fame,</hi> by an Imitation of his <hi>Pattern.</hi>
+            </p>
+            <p>I know <hi>you</hi> need no Arguments to encourage you to copy out his <hi>Example,</hi>
+               <pb facs="tcp:106354:4"/> who already inherit the Excellencies which were ſo commendable and Praiſe-worthy in him, being <hi>Paternae Virtutis, Hae<g ref="char:EOLhyphen"/>res &amp; Aemulus,</hi> the Reſemblance of his Merit, no leſs than the Heir of his For<g ref="char:EOLhyphen"/>tunes, as if his <hi>Religion</hi> and <hi>Loyalty</hi> had deſcended on you, together with his <hi>Name</hi> and <hi>Eſtate,</hi> that all might ſur<g ref="char:EOLhyphen"/>vive in <hi>One,</hi> and conſpire to make him as much <hi>Immortal</hi> as this State will al<g ref="char:EOLhyphen"/>low.</p>
+            <p>And long may the <hi>Entayl</hi> remain on your <hi>Family</hi> in an un-interrupted <hi>Line</hi> and <hi>Succeſſion,</hi> that his Name may be perpetuated in his Poſterity; and as he left the World with Comfort and Satisfaction to ſee you matched into an <hi>Honourable Family,</hi> and with a <hi>Vertuous Conſort,</hi> whereby you are doubly bleſt with the En<g ref="char:EOLhyphen"/>creaſe of a conſiderable <hi>Income,</hi> and an hopeful Iſſue; ſo, if departed Souls be at ill intereſted in our Affairs, or it be any
+<pb facs="tcp:106354:4"/> Acceſſion to the Felicity of the other State, to rejoyce at the Welfare of thoſe they leave behind them, he may glory in the Proſpect of a Laſting <hi>Progeny,</hi> and ſurvive in their <hi>Remembrance through many Generations.</hi>
+            </p>
+            <p>And ſince we cannot recall him, whom God has been pleaſed to take from us, 'tis <hi>You</hi> muſt retrieve that Loſs which we juſtly lament; who are fix'd in that <hi>Orbe</hi> in which he ſo regularly moved, and thence diſpenſed ſo kind an Influence to all the Neighborhood.</p>
+            <p>Go on then (Sir) to tread in your <hi>Father's</hi> Steps; be as true to the <hi>Religi<g ref="char:EOLhyphen"/>on</hi> you profeſs, as conſtant to the <hi>Practice</hi> of it, as Faithful and Loyal to your <hi>King,</hi> as ſerviceable to your <hi>Countrey</hi> as he was, and you have all along hitherto emi<g ref="char:EOLhyphen"/>nently approved your ſelf to be.</p>
+            <p>And may you long and many Years live to enjoy the Bleſſings wherewith God hath
+<pb facs="tcp:106354:5"/> enriched you, that when you alſo muſt lie down in the <hi>Duſt,</hi> your <hi>Name</hi> may be ecchoed out in the <hi>Praiſes</hi> of the People, and your <hi>Fame</hi> ſurvive in an <hi>honoura<g ref="char:EOLhyphen"/>ble and precious Remembrance.</hi>
+            </p>
+            <closer>
+               <signed>So prays Your Affectionate and very humble Servant, Richard Wroe.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:106354:5"/>
+            <epigraph>
+               <bibl>PSAL. 112. 6.</bibl>
+               <q>The Righteous ſhall be in Everlaſting Remembrance.</q>
+            </epigraph>
+            <p>AMong the ſeveral Encouragements to Vertue and good Living, there is none more per<g ref="char:EOLhyphen"/>ſwaſive to Noble and Generous Minds, than that by their good Deeds they ſhall perpe<g ref="char:EOLhyphen"/>tuate their Names, and make their Memories preci<g ref="char:EOLhyphen"/>ous to after Ages. For this State being the Scene of Mutability, <hi>One Generation ſtill paſſing away, and ano<g ref="char:EOLhyphen"/>ther coming,</hi> That which is preſent makes the chiefeſt part of our Entertainment here; but the Impreſſion of things paſt and gone is ſoon worn out, and the Remembrance of Perſons that were before us, eaſily loſt and forgotten. Virtue alone ſurvives our Fate, and lives in the Memories of Poſterity; and thereby purchaſes that Immortality which our frail Condition in this lower World will not allow. Though our Perſons cannot be priviledged from the Arreſts of Death, but early or late we muſt ſtoop to his inevi<g ref="char:EOLhyphen"/>table Stroak, yet the Names and Memories of good Men ſhall be regiſtred in the Records of never dying Fame. <hi>The righteous ſhall be in everlaſting Remem<g ref="char:EOLhyphen"/>brance.</hi>
+            </p>
+            <p>And indeed, miſerable were the State of Mortali<g ref="char:EOLhyphen"/>ty, were there no hopes to ſurvive in the minds of thoſe that live after us: Did we at once ceaſe to be, and to be remembred, Death were a diſmal Silence. If when our Bodies are conſigned to the Grave, our Names alſo muſt be buried in eternal Oblivion, it would encreaſe the Horror of thoſe darkſome Caverns,
+<pb n="2" facs="tcp:106354:6"/> and Extend the Conqueſts of the <hi>King of Terrors.</hi> But the Hopes of being enrolled in the <hi>Catalogue</hi> of thoſe whoſe Names are Perfumed, and their Memories Pre<g ref="char:EOLhyphen"/>cious: This gives a Comfortable Proſpect beyond Mortality, and refreſhes our drooping Spirits with the Chearful Aſſurance <hi>of an Everlaſting Remem<g ref="char:EOLhyphen"/>brance.</hi>
+            </p>
+            <p>And what greater Encouragement can we have to Virtue and Piety? Or what can be more neceſiary to alleviate the Miſeries of Mortality, and allay thoſe ſhivering Fears that ariſe from the Senſe of our own Frailty, or the Grief that attends the loſs of our neareſt Friends, and deareſt Comforts of this Life? For alaſs! We need no other Argument of our own tranſitory Vanity then the Experience of all that have gone before us, in the <hi>Characters</hi> of whoſe Duſt we may Read our own <hi>Epitaphs.</hi> We have frequent In<g ref="char:EOLhyphen"/>ſtances of Humane Frailty, and oftentimes ſad ones too; Witneſs that which now lyes before us. <hi>One,</hi> who ought to be <hi>had in Remembrance,</hi> and will cer<g ref="char:EOLhyphen"/>tainly be ſo among all that knew his Worth, who are no fewer at leaſt then they that knew his Perſon. <hi>One,</hi> whoſe loſs cannot eaſily be forgotten, being as generally lamented now he is dead, as he was uni<g ref="char:EOLhyphen"/>verſally beloved while he was alive. <hi>One,</hi> whoſe loſs is as extenſive as was his Influence, and may be Read in the ſorrowful and dejected looks of all here preſent. And were but Tears ſufficient to enſhrine his Memory, your <hi>Orator</hi> could more eaſily bear a part, than in the juſt Tribute of his deſerved Praiſe, which he can better conceive then expreſs; but is too much affected with the inward Senſe to be able to give a Deſcription of it. He had long ſince learnt, but never till now ſo intimately experienced, that
+<pb n="3" facs="tcp:106354:6"/> 
+               <hi>Curae leves loquuntur, ingentes ſtupent.</hi> That little Paſ<g ref="char:EOLhyphen"/>ſions eaſily find vent and disburthen themſelves, whilſt great Occaſions of Grief and Sorrow lye long ſmothered, and cannot without difficulty be expreſt. And therefore I hope my Concern may <hi>Apologize</hi> for me in what I ſhall fall ſhort, tho I ſhall endeavour to enbalm his Memory after the <hi>Modern Invention,</hi> with<g ref="char:EOLhyphen"/>out <hi>Mangling, Cutting, or Wounding.</hi> Now that we may hear him <hi>tho dead, yet ſpeaking to us,</hi> and his <hi>Ex<g ref="char:EOLhyphen"/>ample</hi> may be (however Silent) yet prevailing <hi>Ora<g ref="char:EOLhyphen"/>tory</hi> with us, I ſhall firſt enforce the Arguments which theſe Words contain to <hi>Virtue and Piety,</hi> that we may learn to imitate the <hi>Righteous</hi> in his Life, that ſo we may ſhare with him in his <hi>Remembrance</hi> after Death.</p>
+            <p>The Words I take to be plain and intelligible; and ſuppoſe that every one that is but meanly Con<g ref="char:EOLhyphen"/>verſant in Scripture knows, that <hi>Righteouſneſs</hi> (eſpeci<g ref="char:EOLhyphen"/>ally in this Book of <hi>Pſalms,</hi> and that of <hi>Proverbs</hi>) is taken ſometimes in a general and complex Notion, as comprehenſive of all Religion, ſometimes in a particular and reſtrained Senſe, for the Virtue of <hi>Charity</hi> and <hi>Liberality.</hi> I ſhall diſcourſe of it chiefly in its general Acception.</p>
+            <p>The Words may be underſtood two ways; ei<g ref="char:EOLhyphen"/>ther,</p>
+            <p>Firſt, <hi>As an Argument to perſwade to Noble and Vir<g ref="char:EOLhyphen"/>tuous <g ref="char:V">Ʋ</g>ndertakings.</hi>
+            </p>
+            <p>
+               <hi>Or</hi> Secondly, <hi>As a Deſcription of that laſting Glory and Renown which Men purchaſe by their Righteouſneſs and Virtue.</hi> Who would not tread the Paths of Righteouſneſs, that conſiders that therein he is ſure to meet with Honour and Glory? And he that keeps cloſe to thoſe Paths ſhall certainly be reward<g ref="char:EOLhyphen"/>ed
+<pb n="4" facs="tcp:106354:7"/> with Renown and Praiſe. So that conſider them with Reference to our ſelves, and they are a <hi>Spurr</hi> to Virtue: with Relation to others, and they are a <hi>Trumpet</hi> to their Fame. We'll firſt examine how co<g ref="char:EOLhyphen"/>gent an Argument, and effectual inducement to <hi>Righteouſneſs</hi> it is to be had in <hi>Remembrance:</hi> And next ſee how the <hi>Righteous</hi> Perſon has deſerved it, and in what Senſe he ſhall <hi>never be forgotten.</hi>
+            </p>
+            <p>I conſider the Words as an Argument to perſwade to Virtuous and Noble Undertakings, in as much as by the Practice of <hi>Righteouſneſs</hi> men certainly arrive at Eſteem and Honour. There is ſomething of <hi>Am<g ref="char:EOLhyphen"/>bition</hi> twiſted in our very Natures, which grows up with us, and diffuſes it ſelf through the whole courſe of our Actions. <hi>Ambition</hi> I call it, tho perhaps it deſerves a better Name, being not the Vice ſomuch as the bent of our Nature; our Natural Inclination rather then a flaw in our Conſtitution, and does not debaſe, but rather perfect our Nature. Now this as it is moſt apparent in great Spirits, ſo does it then produce effects Worthy of it ſelf when it meets with a Gallant Temper and Generous diſpoſiton of Mind. Yea, it often lurks where it is openly diſclaimed and diſavowed: We have Stories enough to Witneſs how many Sparks of <hi>Ambition</hi> have oft layn ſmothe<g ref="char:EOLhyphen"/>red and raked up under Sackcloath and Aſhes, and how much Pride is oft concealed under the vayle of comely, but affected Humility. Yea the greateſt decryers of Applauſe and Glory, have oft been its moſt eager Purſuers, and they that have writ <hi>Tracts</hi> againſt <hi>Vain-Glory</hi> have prefixt their Names to their<note place="margin">
+                  <hi>Bacon's</hi> Sermon Fid. <hi>Montaign</hi> Eſſays.</note> Works, leſt the <hi>World</hi> ſhould either not take notice of them or forget to praiſe them, more or leſs it levens moſt Men, who fain would be what they think they
+<pb n="5" facs="tcp:106354:7"/> ought to be, and ſo imagine themſelves greater then indeed they are. Men (<hi>Narciſſus</hi> like) firſt, fall in love with themſelves, and then the Pleaſure they take in fancying their own Worth, enflames them with deſire that others be acquainted with it. Thus a Secret <hi>Ambition</hi> Spirits Mens Deſigns, and to pur<g ref="char:EOLhyphen"/>chaſe a Name ſets them on Work: To this the World owes its greateſt Undertakings, and its <hi>Worthyes</hi> in all Ages have here caſt the Anchor of their Hopes, tho they have ſallyed out from diſtant Ports, and ſteer'd divers Courſes, and their deſires have all cen<g ref="char:EOLhyphen"/>tred in this one point, to have their Names inſerted into the <hi>Catalogue</hi> of the Worlds Worthies, and be enrolled among the Sons of Fame. Thus many have attempted to climb up to the height of <hi>Honour,</hi> that they may be in view of all the World: Others have thirſted for <hi>Power</hi> and <hi>Soveraignty,</hi> that their Names may ſtrike Terror into the Sons of Men: Some have Studyed to eternize their Names by <hi>Wiſdome:</hi> O<g ref="char:EOLhyphen"/>thers by Acts of <hi>Bounty</hi> and <hi>Beneficence:</hi> Yea ſome have embraced <hi>Death</hi> that their Fame might Survive their <hi>Lives:</hi> And too many inferiour Souls make themſelves Notorious by their <hi>Vices,</hi> and ſo their Names be recorded to <hi>Poſterity,</hi> care not tho they be the Brands of <hi>Shame</hi> and <hi>Infamy.</hi>
+            </p>
+            <p>But he has made the Happy Choice who is known to the World only by his <hi>Virtues,</hi> and is Famous for his <hi>good Deeds.</hi> For 'tis the great Prerogative of <hi>Vir<g ref="char:EOLhyphen"/>tue</hi> to be beholden to none but her ſelf, and its Prai<g ref="char:EOLhyphen"/>ſes are as it ſelf Immortal. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Virtue ſurvives Mortality, and lives in the Names and Memories of its <hi>Deceaſed Patrons,</hi> and gives the trueſt Title to an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And herein lyes the Advantage that <hi>Righteouſneſs</hi> gives above any other
+<pb n="6" facs="tcp:106354:8"/> Pretenders to <hi>Fame</hi> and <hi>Glory,</hi> that its Luſtre cannot be leſſened by any Tract of time, but rather encrea<g ref="char:EOLhyphen"/>ſes with continuance, and Shines more Bright and Glorious: Whereas other <hi>Monuments</hi> of Fame are worn out and eaten with the Ruſt of <hi>Time,</hi> or Wi<g ref="char:EOLhyphen"/>thered with the Blaſts of <hi>Envy,</hi> and after a few years Conſume and Periſh. So the <hi>Founders</hi> of <hi>Ba<g ref="char:EOLhyphen"/>bel,</hi> who ſaid, <hi>let us make us a Name,</hi> and thought to eternize themſelves by building a <hi>Tower</hi> high as<note place="margin">Gen. 11. 4.</note> their own <hi>Ambition,</hi> had their Names buried in the Ruines of that Fruitleſs attempt; When as <hi>Pious A<g ref="char:EOLhyphen"/>bel</hi> tho Sacrificed on his own <hi>Altar</hi> to his Brothers Malice, yet has his early Piety tranſmitted to <hi>Poſte<g ref="char:EOLhyphen"/>rity,</hi> and ſhall through all Ages be known by the <hi>Epithet</hi> of <hi>Righteous Abel.</hi> The Favours of Fortune, <hi>Riches, Power,</hi> or <hi>Honour,</hi> may ſecure a Mans Cre<g ref="char:EOLhyphen"/>dit while he lives, but if he have no other Deſerts, his Fame will expire with him: Theſe might beget him Admirers who through Fear or Flattery would cry him up whilſt alive, who when dead would be ready firſt to trample on him. For tho <hi>Vice</hi> may at firſt Sight dazzle Mens Eyes, and <hi>Glow-worm</hi>-like caſt a glimmering in the Night, yet its Luſtre vaniſhes when Men diſcern what it is, and time diſcovers the Impoſture: Whereas <hi>Virtue</hi> if for ſome while it lye hid and obſcured, yet at laſt uſually it breaks out with the greater ſplendor, and makes Men con<g ref="char:EOLhyphen"/>demn their own Blindneſs that did not ſooner diſco<g ref="char:EOLhyphen"/>ver its Worth and Excellency, and ſuch is its attra<g ref="char:EOLhyphen"/>ctive <hi>Comelineſs</hi> that it eaſily captivates the behold<g ref="char:EOLhyphen"/>ers, and Men cannot but admire and commend it in others, tho they are ſenſible of the want of it in themſelves.</p>
+            <pb n="7" facs="tcp:106354:8"/>
+            <p>This made the Ancient <hi>Worthys</hi> of the World, who bettered the Age they lived in by their good Exam<g ref="char:EOLhyphen"/>ples, be deifyed for it even by their <hi>Contemporaries,</hi> who tho greater in Power and Place, yet wanted <hi>Virtue</hi> to make them much greater then indeed they were. Thus <hi>Nimrods</hi> mighty Power tho it made him great and terrible, yet could never procure him A<g ref="char:EOLhyphen"/>doration, whilſt others far inferior in Dominion and Sovereignty, yet excelling him in Goodneſs, were honoured for their <hi>Virtue</hi> whilſt alive, and worſhip<g ref="char:EOLhyphen"/>ped for it after they were dead. And if it happen that <hi>Righteous</hi> Perſons live without any notice taken of them, and dye unregarded, yet the World has made them amends by ſetting an higher eſtimate upon their Worth, becauſe they ſo long looked of it; and be<g ref="char:EOLhyphen"/>ing they did not value them enough whilſt living, they have oft deified them when dead. It was this gave Birth to moſt of the <hi>Heathen Gods, viz.</hi> The Eſteem the World had for their Virtue and Good<g ref="char:EOLhyphen"/>neſs: For being they were the beſt of <hi>Men</hi> here, they thought it pitty they ſhould be any leſs then <hi>Gods</hi> hereafter.</p>
+            <p>Thus Virtue never miſſes her reward, but finds it if not here, in a future State. And who would not run where the Prize is certain? Or who would re<g ref="char:EOLhyphen"/>fuſe to Fight where the Victory aſſures a Crown? What more pleaſing motive to Mans <hi>Ambitious</hi> tem<g ref="char:EOLhyphen"/>per, which makes him greedy of Applauſe and Re<g ref="char:EOLhyphen"/>nown, then to propoſe that to his Choice, in whoſe embraces he is ſure to meet with his deſired Content? What more forcible enducement to <hi>Religion</hi> and <hi>Piety,</hi> than to be aſſured that it will procure the moſt du<g ref="char:EOLhyphen"/>rable and untainted Reputation? Would the Men of <hi>Honour</hi> ſeriouſly weigh this, they would eaſily be
+<pb n="8" facs="tcp:106354:9"/> convinced, that the <hi>Crown</hi> of <hi>Glory</hi> is not to be attai<g ref="char:EOLhyphen"/>ned but in the way of <hi>Righteouſneſs.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> And ſo I paſs on to conſider the Words as a Deſcription of that laſting Renown which Men purchaſe by their <hi>Righteouſneſs</hi> and <hi>Virtue;</hi> to ſhew how they <hi>ſhall be in Remembrance.</hi> The <hi>Pſalmiſt</hi> tells us (<hi>Verſe</hi> 9.) <hi>His Righteouſneſs remaineth for ever, his Horn ſhall be exalted with Honour.</hi> The latter referrs to this Life, the former to his future Happineſs: He ſhall be honoured by Men here, and rewarded by God hereafter.</p>
+            <p>
+               <hi>Firſt,</hi> He ſhall be had in <hi>Honour</hi> here. The Son<note place="margin">Eccleſiaſti<g ref="char:EOLhyphen"/>cus 44. 8, 9.</note> of <hi>Syrach</hi> tells us, <hi>there be that have left a Name behind them, that their Praiſes might be reported: And there be which have no Memorial who are periſhed as if they never had been, and are become as tho they had never been born, and their Children after them. But theſe were Men whoſe Righteouſneſs hath not been forgotten,</hi> and he adds, <hi>their Glory ſhall not be blotted out.</hi> Glory not<note place="margin">Verſe 13.</note> only belongs to the <hi>Righteous,</hi> but is peculiarly en<g ref="char:EOLhyphen"/>tail'd on their <hi>Poſterity.</hi> The Reaſon of this is that Obligation of <hi>Gratitude</hi> which Nature her ſelf lays upon Men: Praiſe and Eſteem is juſtly due to merit, and therefore Nature which Commands us to be juſt, obliges us to pay the Tribute of Eſteem and Praiſe<note place="margin">Huic uni non poſui<g ref="char:EOLhyphen"/>mus legem, tanquam ſatu Natu<g ref="char:EOLhyphen"/>ra caviſſet.</note> where it is due. And never was there any Law made, nor need we any to bind us to this, <hi>Super<g ref="char:EOLhyphen"/>vacuum enim eſt in id quod imus impelli</hi> (as <hi>Seneca</hi> rightly obſerved) we need not the force of Humane Laws where <hi>Nature</hi> has pre-engaged us. And all <note place="margin">Sen. de Ben. Lib. 4. C. 17.</note> Men do it; even <hi>Sinners love thoſe that love them</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſo it was anciently Read) even the <hi>Gen<g ref="char:EOLhyphen"/>tiles</hi>
+               <note place="margin">
+                  <hi>Luke. 6. 32. Beza,</hi> and <hi>Luc. Brug.</hi>
+               </note> do ſo.</p>
+            <pb n="9" facs="tcp:106354:9"/>
+            <p>And this being the bent of our Nature, makes the Impreſſions of Gratitude proportionable to the Be<g ref="char:EOLhyphen"/>nefits we have received: In which is founded both our <hi>Religion to God,</hi> our <hi>Honour</hi> to our <hi>Parents,</hi> and our <hi>Obedience</hi> to our <hi>Superiors.</hi>
+            </p>
+            <p>For ſince in God we <hi>live, and move, and have our</hi>
+               <note place="margin">Acts 17. 28.</note> 
+               <hi>being,</hi> we ſhould be highly ingrateful if we did not acknowledge that we owe all that we have to him. But <hi>what ſhall we render to the Lord for all his Benefits?</hi> Our Goods extend not to him: The Divine Beati<g ref="char:EOLhyphen"/>tude receives no Acceſſion from any thing we can do, or beſtow: Yet to adore him for his Bounty, and eſteem his Kindneſs, and Worſhip him with Fear and Reverence, theſe are Dutyes which even <hi>Grati<g ref="char:EOLhyphen"/>tude</hi> calls for to ſo great a Benefactor. And to our Natural Parents, what can we pay leſs for their ten<g ref="char:EOLhyphen"/>der Care of us in our helpleſs Infancy, than Reſpect and Honour, and a like careful Regard of them in their decrepit Age? And the ſame debt we owe to our Princes and Governours, under whoſe happy Influence we enjoy the Bleſſings of Peace and Safe<g ref="char:EOLhyphen"/>ty, which juſtly Merit the Returnes of Obedience and Loyalty. Thus the Obligations of Gratitude are of large Extent: and thereon too is founded the Honourable <hi>Remembrance</hi> of Virtuous and Wor<g ref="char:EOLhyphen"/>thy Men, and a conſtant Tribute of Praiſe paid to their Memories by grateful Poſterity.</p>
+            <p>To this I add, that in this reſpect chiefly may that promiſe ſeem to be made good, wherein Godlineſs <hi>hath the Promiſe of this Life,</hi> Namely of that which is<note place="margin">1 Tim. 4. 8.</note> moſt valuable in this World: And what that is, let the Wiſe Man tell you, <hi>A good Name is rather to be choſen than great Riches (Proverbs</hi> 22. 1.) and (<hi>Ec<g ref="char:EOLhyphen"/>cleſiaſtes 7. 1.) A good Name is better than precious
+<pb n="10" facs="tcp:106354:10"/> Oyntment.</hi> For the great Happineſs of this World conſiſting chiefly in <hi>Idaea,</hi> and being more imagina<g ref="char:EOLhyphen"/>ry than Real, he that hath a good Name becauſe he deſerves it, has all the Satisfaction that he can receive in himſelf, and that others can beſtow: And a Man cannot be more Happy than in a well acquired Re<g ref="char:EOLhyphen"/>putation, and an Eſteem juſtly purchaſed by his Worth and Merit. And tho Virtue be many times the only Reward to it ſelf, yet God is oftentimes plea<g ref="char:EOLhyphen"/>ſed to Crown Righteouſneſs with Glory here, for an Encouragement to others, and <hi>the Praiſe of them that do well.</hi>
+            </p>
+            <p>But theſe are only Generals. I mention two or three <hi>Particulars</hi> wherein will be more evident, that there is no ſuch real Honour, or deſirable Glory, as accrews even here to Men from their Righteouſneſs and good Deeds. And that. 1. <hi>In the deſign of God. 2. In the Opinion of Men.</hi>
+            </p>
+            <p>1. <hi>In the Deſign of God,</hi> who hath contrived eve<g ref="char:EOLhyphen"/>ry thing for the Advantage and Encouragement of Virtue and real Goodneſs. God hath ſaid, <hi>them</hi>
+               <note place="margin">1 Sam. 2. 30.</note> 
+               <hi>that Honour me, I will Honour.</hi> Now Righteouſneſs in his Image, and bears a great Likeneſs and Reſem<g ref="char:EOLhyphen"/>blance to him; and as he delights to ſee it in the Sons of Men, ſo he is pleaſed to Eſteem himſelf honou<g ref="char:EOLhyphen"/>red thereby: Which made the Wiſe Man (when adviſing to the Practice of it) ſay, <hi>hereby thou ſhalt find Favour and good <g ref="char:V">Ʋ</g>nderſtanding in the Sight of God and Man.</hi> And it is the Voice of Righteouſ<g ref="char:EOLhyphen"/>neſs, <hi>Who ſo findeth me ſhall obtain Favour of the Lord.</hi>
+               <note place="margin">Pro. 8. 35.</note> Yea it is Gods promiſe to the Righteous, <hi>I will deli<g ref="char:EOLhyphen"/>ver him, and bring him to Honour.</hi> And <hi>David</hi> thus<note place="margin">Iſ. 91. 15.</note> triumphed in his Abundant Senſe of the Divine Fa<g ref="char:EOLhyphen"/>vour<note place="margin">Pſ. 92. 10.</note> 
+               <hi>Mine Horn ſhall be exalted like the Horn of an <g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>nicorn:
+<pb n="11" facs="tcp:106354:10"/> I ſhall be anointed with freſh Oyl,</hi> intimating the Honour and Dignity that he would conferr on him. Hence ſuch Men are mentioned in Gods Word with Appellations of Honour: <hi>Abraham</hi> his Friend, <hi>Moſes</hi> his Servant, <hi>David</hi> a man after his own Heart, <hi>Nathanael</hi> an <hi>Iſraelite</hi> indeed, in whom there is no Guile. And their Virtues are recorded as the laſting Trophies of their Glory and Renown: The Faith of the <hi>Patriarchs,</hi> the Meekneſs of <hi>Moſes,</hi> the Patience of <hi>Job,</hi> the Uprightneſs of <hi>Joſiah,</hi> the Conſtancy of <hi>Daniel,</hi> to the Honour of their Memories and the Praiſe of their Righteouſneſs, which the <hi>Son of Syrach</hi> thus<note place="margin">Eccleſiaſti<g ref="char:EOLhyphen"/>cus 44. 7.</note> Summs up, <hi>All theſe were honoured in their Generations, and were the Glory of their Times: They have left a Name behind them that their Praiſes might be reported.</hi>
+            </p>
+            <p>The Holy Spirit of God which inſpired the Au<g ref="char:EOLhyphen"/>thors of Sacred Writ, hath affixt Characters of Re<g ref="char:EOLhyphen"/>nown, and Remarks of Praiſe, to the Names of <hi>Re<g ref="char:EOLhyphen"/>ligious</hi> and <hi>good Men:</hi> And Honourable are the Ti<g ref="char:EOLhyphen"/>tles of the Righteous, equal even to Kings and Prin<g ref="char:EOLhyphen"/>ces: For when in one Evangeliſt it is ſaid, <hi>Kings deſired to ſee Chriſt's day,</hi> it is ſaid in another, <hi>Righte<g ref="char:EOLhyphen"/>ous Men deſired to ſee it:</hi> For they are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>Sons of God,</hi> the Children of the moſt high, and God himſelf diſdains not to be called their Father. And <hi>Chriſt</hi> the Son of God is become their Elder Brother, ſince he came into the World for the ſake of Righteouſneſs, and hath exalted Humane Nature to the higheſt pitch of Dignity, by uniting it to his own Divinity. And the <hi>Holy Ghoſt</hi> contributes no leſs to the Honour of the Righteous whom he condi<g ref="char:EOLhyphen"/>ſcends to inhabit as his Temple: And greater Ho<g ref="char:EOLhyphen"/>nour cannot be done to Mortal Nature than to lodg
+<pb n="10" facs="tcp:106354:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:106354:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:106354:12"/> ſo Noble a Gueſt, to entertain God himſelf, and converſe with Divinity. And if Righteouſneſs be ſo honoured by the <hi>Sacred Trinity,</hi> we may conclude its Eſteem is great amongſt their Glorious Attendants, the winged Train of <hi>Angels</hi> and <hi>Arch-Angels:</hi> And ſo Scripture tells us of them, they rejoyce to Miniſter for the good of ſuch Men while they live, they re<g ref="char:EOLhyphen"/>ceive the Souls of ſuch as dye in the Lord with Joy and Triumph, and tranſport them into the Regions of Reſt and Bliſs.</p>
+            <p>Secondly, <hi>Righteouſnes is Honourable in the Opini<g ref="char:EOLhyphen"/>ons of Men.</hi> I mean of all Sober and Rational Men, and the eſtimate of all others I reckon of ſmall value. I know the Devil has long ſought to obtrude upon the World what he taught <hi>Macchiavel</hi> to inſinuate that Religion and Righteouſneſs are low and mean Principles, unfit for Governours, and great Men; and has hoped to laugh them out of Countenance, and render them ridiculous by his Agents, Prophane and Atheiſtical Men. But <hi>Wiſdome is juſtified of her Children,</hi> and in ſpite of Hell and Sinners, Virtue has yet the <hi>Vogue</hi> of the World, and Vice (tho too oft in Faſhion) could never yet obtain an Univerſal Reputation and Eſteem. No, 'tis Vice alone that is ſordid and contemptible. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Plat.</hi> All Wickedneſs is diſhonourable, and Sin the Diſ<g ref="char:EOLhyphen"/>grace both of our Natures and Perſons. It brings diſgrace to Families, and wounds the Reputation of the Great Ones: It ſtains the Blood, and leaves a mark of Infamy on the Pedigree: It Expoſes Men to Scorn and Contempt, and makes their Names odi<g ref="char:EOLhyphen"/>ous to Poſterity. Whereas Righteouſneſs enobles Men, and adds Degrees of Worth to Perſons of Ho<g ref="char:EOLhyphen"/>nour,
+<pb n="13" facs="tcp:106354:12"/> and Advances the Reputation of the great Ones of the World. Chiefly in three things,</p>
+            <p>Firſt, <hi>It makes their Perſons valuable.</hi> For 'tis Goodneſs only in Conjunction with Greatneſs that makes Men truly Honourable, and Power and Gran<g ref="char:EOLhyphen"/>deur without Piety is but what the Apoſtle ſays of other Graces without Charity, <hi>as ſounding Braſs, and a tinckling Cymbal.</hi> The great Titles of the World are but empty Names without the Addition of Vir<g ref="char:EOLhyphen"/>tue, and they only have been truly great who have been exemplary therein. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. It is Virtue alone that is deſervedly Honourable, and hath always crowned its Followers with Eſteem and Renown. Heathen <hi>Rome</hi> was not more Famous for the extent of its Dominions than for the Virtues of its Inhabitants: Which made Saint <hi>Auguſtin</hi> ſay of them, that tho <hi>God</hi> would not give them Heaven becauſe they were Heathens, yet he gave them the Empire of the World, becauſe they were Virtuous. So true is that of the <hi>Wiſe Man</hi> (adviſing to the Heavenly Wiſdome of being Religious.) <hi>Exalt her</hi>
+               <note place="margin">Pre. 4. 8, 9.</note> 
+               <hi>and ſhe ſhall promote thee: She ſhall bring thee to Ho<g ref="char:EOLhyphen"/>nour when thou doſt embrace her: She ſhall give to thine Head an Ornament of Grace, a Crown of Glory ſhall ſhe deliver to thee.</hi>
+            </p>
+            <p>Secondly, <hi>It makes their Memories precious.</hi> 'Tis their Names that are delivered down to <hi>Poſterity</hi> with Characters of Renown, who have been Good as well as Great, and they ſhall be had in Honour when the Sons of Fame ſhall ſleep in the Duſt of Ob<g ref="char:EOLhyphen"/>livion, and their Names rot with their <hi>Monuments.</hi> 'Tis true the Memory of the wicked is ſometimes alſo tranſmitted to after Ages, as it is ſaid of <hi>Eroſtratus,</hi> that he fired the <hi>Temple of Diana</hi> only to get him a
+<pb n="14" facs="tcp:106354:13"/> Name, tho it were never mentioned without that <hi>brand</hi> of Infamy. But we may ſay of all ſuch what our Saviour does of the giver of Offences, <hi>It were better for that Man if he had never been born:</hi> It were better to have our Names buried in Eternal Silence, than to have them (<hi>like Jeroboams</hi>) made the Note of Infamy, and the Monuments of our Shame. But a <hi>good Name</hi> is a ſweet Perfume, and Righteouſneſs makes Men Immortal, and Virtue outlaſts the Suc<g ref="char:EOLhyphen"/>ceſſion of Ages. Let <hi>Solomon</hi>'s words conclude this, <hi>The Memory of the Juſt is Bleſſed, but the Name of the</hi>
+               <note place="margin">Pro. 10. 7.</note> 
+               <hi>Wicked ſhall Rot:</hi> And again, <hi>as the Whirlwind paſ<g ref="char:EOLhyphen"/>ſeth,</hi>
+               <note place="margin">Verſe 25.</note> 
+               <hi>ſo is the Wicked no more, but the Righteous is an Everlaſting Foundation.</hi>
+            </p>
+            <p>Thirdly, <hi>It makes their loſs great and <g ref="char:V">Ʋ</g>nvaluable.</hi> Alaſs! the World is not ſenſible what Advantages <hi>good Men</hi> bring and ſecure to it: tho it be ſpared for the few Righteous Sake that are therein, tho its Bleſſings be derived chiefly from them, yet generally it is not known, or not regarded. But when we are depri<g ref="char:EOLhyphen"/>ved of them, then we become ſenſible of their loſs as we do of other good Things, <hi>carendo magis quàm fruendo,</hi> more by the want than the Edjoyment of them, and then begin to grow ſenſible how much we ſuffer by their abſence, when we have no Hopes ever to behold them preſent again. We dayly part with our <hi>Friends</hi> and <hi>Acquaintance,</hi> and however their Relations may be afflicted, the World in gene<g ref="char:EOLhyphen"/>ral ſeems little concerned, nor loſes much by it; but when the Righteous Periſheth, whoſe Example was ſo prevalent, whoſe Excellence was ſo admira<g ref="char:EOLhyphen"/>ble, whoſe Influence was ſo Beneficial, it ſpreads a Darkneſs over all the <hi>Neighborhood,</hi> and Clouds all Faces with the Blackneſs of <hi>Sorrow and Sadneſs.</hi>
+            </p>
+            <pb n="15" facs="tcp:106354:13"/>
+            <p>When they are taken away who have left but few like behind them, then Men too late begin to be af<g ref="char:EOLhyphen"/>fected with their <hi>Worth,</hi> and recount their <hi>Praiſes,</hi> and pay their firſt Veneration in Mournful Obſequies, and attend them to their long home with ſuch a paſ<g ref="char:EOLhyphen"/>ſionate <hi>Proceſſion,</hi> as we read of <hi>David</hi> and his Men to Mount <hi>Olivet,</hi> (2 <hi>Sam.</hi> 15. 30.) <hi>and</hi> David <hi>went up by the aſcent of Mount Olivet, and wept as he went up, and all the People that was with him went up, weeping as they went up.</hi>
+            </p>
+            <p>A Solemn Lamentation, and day of bitter Sorrow and Mourning that was: And would to God we had not this days <hi>ſad Occaſion</hi> to parallel that Proſpect of Sorrow and Sadneſs; to ſee all the People Weeping, in a Senſe of their loſs, for the value of his Perſon, to the Honour of his Memory, for all theſe Conſpire this day to ſwell the Channel of our Grief, and no wonder then to ſee it ſo freely burſt out.</p>
+            <p>Which leads me to another Subject, of which much more may be ſaid than I have hitherto di<g ref="char:EOLhyphen"/>ſcourſed of this, could my time allow it, or your patience bear it. <hi>One,</hi> who ought to be had in <hi>Re<g ref="char:EOLhyphen"/>membrance,</hi> and I hope it will be as everlaſting as this <hi>Place</hi> and its <hi>Inhabitants;</hi> I wiſh I knew how to con<g ref="char:EOLhyphen"/>tribute to its Duration by ſuch a Character of his Worth as you expect, and I am ſure he well deſerved. I have this to Encourage me, that I can ſcarce men<g ref="char:EOLhyphen"/>tion any thing to his Praiſe, of which I have not as many <hi>Witneſſes,</hi> as <hi>Auditors:</hi> but withal this diſcou<g ref="char:EOLhyphen"/>ragement, that I muſt conclude his Character as the <hi>Queen of Sheba</hi> did of <hi>Solomon's Glory, half hath not been ſpoken.</hi> 'Tis ſometimes the <hi>Orator's</hi> infelicity that his Subject is too Copious; and now if ever <hi>in<g ref="char:EOLhyphen"/>opem me Copia fecit,</hi> where ſo much is to be ſaid, it
+<pb n="16" facs="tcp:106354:14"/> is not eaſy to know where to begin, yet more diffi<g ref="char:EOLhyphen"/>cult to know where to make an end.</p>
+            <p>I will not therefore detain you with every thing that may be ſaid, and moſt of you know; nor trace his Character through all the Relations he ſtood in; as in his <hi>Domeſtick</hi> Capacity and Government, wherein was remarkable, the Chaſtneſs of his Con<g ref="char:EOLhyphen"/>jugal love (<hi>which was mutually anſwered, and reſem<g ref="char:EOLhyphen"/>bled the Shine of two Tapers, lighted but with one Flame</hi>) the goodneſs of a Father's Care, and the Sweetneſs of a Maſter's Rule. But I am loth to touch on this, being too tender a Theme both for you to hear, and me to enlarge upon, and would ſerve only to ſwell that Channel of grief which the deſign of this diſcourſe is to aſſwage.</p>
+            <p>I will but mention his <hi>Hoſpitality</hi> and <hi>good Houſe<g ref="char:EOLhyphen"/>keeping:</hi> Plenty and Wellcome were never wanting at his Table; and he was not like the Churle that loved to eat his Morſel alone: no man entertained both acquaintance and Strangers with greater Freedom and Affability.</p>
+            <p>I am loth to omit his kind and obliging <hi>Temper,</hi> which made him always Grateful and Acceptable, and that Generous Kindneſs and Chearfulneſs of Spirit which was always diſcernable in him toward his <hi>Te<g ref="char:EOLhyphen"/>nants, Dependants,</hi> and <hi>Followers.</hi>
+            </p>
+            <p>And what was Kindneſs towards all, was <hi>Charity</hi> to every one that ſtood in need of it, and he had not only a chearful Heart but a liberal Hand, which I ne<g ref="char:EOLhyphen"/>ver knew contracted or ſhut up, when any juſt Oc<g ref="char:EOLhyphen"/>caſion call'd him to ſtretch it out; but I have oft been a Witneſs of his forward Bounty, that he might provoke others by the Example of his own chearful Liberality: Nor did he diſperſe only what was ſu<g ref="char:EOLhyphen"/>perfluous
+<pb n="17" facs="tcp:106354:14"/> to himſelf, but what was needful to others, he gave not only the <hi>Crums that fell under his Table, but caſt his bread upon the Waters,</hi> the needy and ne<g ref="char:EOLhyphen"/>ceſſitous, that (like that thin Element) creep on, cold, murmuring, and tremulous.</p>
+            <p>His perſonal <hi>Qualifications</hi> I cannot at large deci<g ref="char:EOLhyphen"/>pher; nor ſhall inſtance in any negative Virtues; that he was not Obnoxious to thoſe Vices which are inci<g ref="char:EOLhyphen"/>dent to perſons of Place and plentiful Fortune: Not to Pride and Cenſoriouſneſs: Not to Violence and Op<g ref="char:EOLhyphen"/>preſſion:<note place="margin">1 Sam. 12. 3.</note> No, he might ſafely expoſtulate in <hi>Samuels</hi> words, whoſe Ox, or whoſe Aſs have I taken? or whom have I defrauded? Or whom have I oppreſſed? or of whoſe hand have I received a Bribe to Blind mine eyes therewith? It is eaſy to acquit him from fraud, or Malice, from Injury and Injuſtice from ignoble and diſhoneſt Deſigns, from Reach and Circumvention. But, <hi>privati &amp; plebeii hominis eſt ut vitio careat.</hi> It may be the Character of a mean and ordinary Perſon to be free from Vice, but for thoſe that exceed others in place and quality, it is a ſhame not to outſtrip them too in what is Excellent and Commendable.</p>
+            <p>I will therefore inſiſt on two things for which he is to be honoured, and I hope will be ſo in a long and precious remembrance among all good men, His <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> to God, and his unſhaken <hi>Loyalty</hi> to his Prince: Which were equal and uniform through his wholelife.</p>
+            <p>1. His <hi>Religion</hi> was <hi>true Proteſtant:</hi> Not that of late falſely ſo called, but that which is <hi>by Law eſtabliſh<g ref="char:EOLhyphen"/>ed,</hi> the Religion of the <hi>Church of England.</hi> In which he was happily educated and inſtructed in his greener years by the care and direction of the <hi>right Honourable James Earl of Darby;</hi> to whom he was entruſted by his faithful <hi>Guardian John Fleetwood of Penwortham,
+<pb n="18" facs="tcp:106354:15"/> Eſq;</hi> to whoſe Religious deſigns, and the joynt en<g ref="char:EOLhyphen"/>deavours of his Virtuous <hi>Conſort,</hi> he owed the early Impreſſions of Piety, and in that <hi>Family</hi> firſt com<g ref="char:EOLhyphen"/>menced <hi>Proteſtant,</hi> and was thence ſent into the <hi>Iſle of Man,</hi> where the Principles he had already imbibed, were ſoon cultivated and improved under the Um<g ref="char:EOLhyphen"/>brage of that <hi>Religious, Loyal</hi> and <hi>Great Man:</hi> as in<g ref="char:EOLhyphen"/>deed his Example could not but have a prevailing In<g ref="char:EOLhyphen"/>fluence, who was ſo great a Patriot both of <hi>Religion</hi> and <hi>Loyalty,</hi> that he dyed for both. He being here<g ref="char:EOLhyphen"/>by ſeaſonably retrieved from the Errors of <hi>Popery</hi> (in which the reſt of his Relations were trained up) revi<g ref="char:EOLhyphen"/>ved the Religion of his <hi>Anceſtors,</hi> and reſtored new luſtre to his <hi>Family</hi> by the choice of a better Profeſ<g ref="char:EOLhyphen"/>ſion. An happineſs which he thankfully acknowledg<g ref="char:EOLhyphen"/>ed, and frequently bleſſed God for, and always own'd a grateful <hi>Veneration</hi> for it, to the Memory of that <hi>Ex<g ref="char:EOLhyphen"/>cellent Perſon,</hi> and a true value for his <hi>Honourable Family.</hi>
+            </p>
+            <p>Nor did he onely take up his Religion upon truſt, but underſtood the <hi>Conſtitution</hi> of it, and acquainted himſelf with its <hi>Principles,</hi> and ſtudyed to defend it, and was zealous to maintain it, and true to it. So falſe was that ſlander (which had no other ground but Spite and Ignorance) that he was a <hi>Church-Papiſt,</hi> a Calumny as Black as their Malice that forged it, and believed only by them who knew him not. But ſo blind is ſome mens miſtaken Zeal, as to brand every thing to be of the <hi>Romiſh faſhion,</hi> that is not ſhap't af<g ref="char:EOLhyphen"/>ter the <hi>Geneva-Cut:</hi> and ſo ſpitefull is ſome mens En<g ref="char:EOLhyphen"/>vy, that they leave no Engin unplay'd to batter a mans reputation: and they well knew that nothing would ſooner blaſt his Credit amongſt <hi>Vulgar</hi> and <hi>un<g ref="char:EOLhyphen"/>thinking</hi> men. But (God be thanked) the Calumny
+<pb n="19" facs="tcp:106354:15"/> long ſince blown off, and the aſperſion ſo clean wiped out, that there remains nothing of it, unleſs ſhame in them that were ever ſo much impoſed on as to believe or report it. Would to God we had as much evidence of the ſincerity of all mens Profeſſion, as we had of his; manifeſt in all thoſe reſpects by which a man can approve himſelf a <hi>faithful Member,</hi> and dutifull Son of the <hi>Church of England:</hi> viz. his Conſtant reſort to Gods <hi>Houſe</hi> and <hi>Ordinances;</hi> his affection to the <hi>Prayers</hi> of the Church, and devour joyning in them and Solemn of uſe them bothin the <hi>Church,</hi> and his own <hi>Family:</hi> his frequenting the Holy Sacrament, not only in publick, but alſo his deſires of it in private when debarr'd the Priviledg of going up to the <hi>Houſe of the Lord:</hi> and now more eſ<g ref="char:EOLhyphen"/>pecially at his latter end, when in view and proſpect of death, he reſolved to meet it with the refreſhing Com<g ref="char:EOLhyphen"/>fort of the <hi>Bread of Life.</hi> An undeniable Argument, not only of the Sincerity of his Profeſſion, but of the Power and Influence of his Religion, which was not on<g ref="char:EOLhyphen"/>ly even and uniform through his Life, but enabled him to conclude it with a pious deportment at his death. Of which I have the following account from a reverend Perſon that miniſtred to his dying comfort.</p>
+            <p>
+               <q>On <hi>Eaſter-day</hi> in the Morning he earneſtly deſired to receive the bleſſed Sacrament, and whilſt the Ele<g ref="char:EOLhyphen"/>ments were preparing I ſuggeſted ſeveral things pro<g ref="char:EOLhyphen"/>per to his Condition, and askt him ſeveral Queſti<g ref="char:EOLhyphen"/>ons as to the ſtate of his Soul, of which he gave me a very ſatisfactory account, that he had been ſenſi<g ref="char:EOLhyphen"/>ble of his declining Condition a great while, and hoped that he had made his peace with God: that he was heartily ſorry, and truly penitent for all his Sins, and put his whole truſt in Gods mercy: that he freely and heartily forgave all men, and as hear<g ref="char:EOLhyphen"/>tily deſired forgiveneſs at their hands: and deſiring
+<pb n="20" facs="tcp:106354:16"/> 
+                  <hi>abſolution</hi> received it with great humility and com<g ref="char:EOLhyphen"/>fort, During the Prayers and Celebration of the Sa<g ref="char:EOLhyphen"/>crament, I obſerved him to expreſs great Zeal and Devotion, by his ſtedfaſt looks, and fixing his eyes upon me, eſpecially at the time of receiving; and alſo by repeating the Prayers after me, which laſt he fayl'd not to do even within an hour before he dyed: for he continued Senſible to the very laſt, and God was pleaſed to take him to himſelf in a calm and gentle way without any Convulſions of Pain or Impatience. At my laſt waiting on him it was de<g ref="char:EOLhyphen"/>ſired he might be recommended to the Prayers of the Church, which were then beginning at the Choire, and it was obſervable that he dyed imme<g ref="char:EOLhyphen"/>diately after thoſe Prayers were offered up to God for him.</q> A Comfortable end when the Soul ex<g ref="char:EOLhyphen"/>pires in pious raptures, and ardent ejaculations, and aſcends up in the incenſe of devout Prayers to the place of reſt and repoſe.</p>
+            <p>
+               <hi>2dly.</hi> But I muſt not forget his <hi>Loyalty,</hi> which next to his Religion was moſt dear to him, and moſt conſpi<g ref="char:EOLhyphen"/>cuous in him. And indeed where ſhould we hope to find true and ſteady <hi>Loyalty,</hi> but in a genuine Son of the <hi>Church of England?</hi> In him both commenced together, and he gave early proofs of his Loyalty in an Age wherein it was judged a Crime: when <hi>Rebellion</hi> look'd gay with ſucceſs, and <hi>Sacrilege</hi> had Providence to gild it over, yet even then he Judged not the Cauſe by its Succeſs, but the righteouſneſs of it, and durſt be honeſt in ſpite of bad times. And ſince God in his mercy <hi>turn'd the Captivity of our Sion,</hi> how firm and unſhaken his <hi>Fidelity</hi> and <hi>Alleigance</hi> have been, how loyal his endeavours in all the relations of his publick qualifications, or private Capacity, is too
+<pb n="21" facs="tcp:106354:16"/> well known to need either a Deſcription or En<g ref="char:EOLhyphen"/>largement.</p>
+            <p>The <hi>King</hi> (who is a great Judg of Men, and was well acquainted with his Worth) entruſted him with thoſe <hi>Offices</hi> which witneſſed the Eſteem he had both of his <hi>Faithfulneſs</hi> and <hi>Ability,</hi> and received ſo good an Account of the Diſcharge of his Truſt in each re<g ref="char:EOLhyphen"/>ſpect, and ſuch undeniable Aſſurances of his Affe<g ref="char:EOLhyphen"/>ction both to His <hi>Perſon</hi> and <hi>Government,</hi> that he not only Honoured him with a peculiar reſpect, but was pleaſed to beſtow thoſe Marks of His <hi>Royal Fa<g ref="char:EOLhyphen"/>vour</hi> on himſelf and Family, which teſtifyed the juſt Sence he had of his Deſerts and Honeſty.</p>
+            <p>His <hi>Country</hi> judged him a true <hi>Patriot</hi> no leſs then a <hi>good Subject,</hi> and therefore made choice of him for their <hi>Repreſentative in Parliament,</hi> in which Station he ſerved many Years with great Diligence and Faithfulneſs; and in the Receſſes of that <hi>Publick Em<g ref="char:EOLhyphen"/>ploy,</hi> was not leſs ſerviceable to his Countrey at <hi>Home,</hi> then Faithful to their Intereſt <hi>Abroad:</hi> For he was a Conſtant Attender on all Publick Buſineſs, and evermore Active and Induſtrious in the Service of His <hi>King</hi> and <hi>Countrey,</hi> which he always preferr'd before any Diverſions of his own, or (what was moſt grateful to him,) the Chearful Entertainment of his Friend. Not like ſome <hi>who live only to them<g ref="char:EOLhyphen"/>ſelves,</hi> but grudg the <hi>Publick</hi> any benefit of the Ta<g ref="char:EOLhyphen"/>lents which God has put into their Hands; who contrive how to ſpend their <hi>Time, Health, and Wealth</hi> wholly to their own Eaſe and Satisfaction; who as if they were born to great Eſtates meerly to gratify themſelves, not to do good withal, ſhuffle off all Offices of Truſt and Service whereby Men of Eſtates and Intereſt may promote the good of the
+<pb n="22" facs="tcp:106354:17"/> Place they live in. But <hi>he</hi> was ready to ſpend and be ſpent for the <hi>Common good,</hi> which he both rightly underſtood and truly valued, ma<g ref="char:EOLhyphen"/>king all his Deſigns ſubſervient to the great end of Government, the peace and welfare both of <hi>Church and State,</hi> and directing all his Actions thereunto by the conſtant Meaſures of <hi>Loyalty</hi> and <hi>Allegiance.</hi> For he was none of thoſe who of late ſeemed to have un<g ref="char:EOLhyphen"/>learnt their <hi>Allegiance,</hi> and repented of their former <hi>Loyalty:</hi> Nor of them who when we were ready to be overwhelmed with the Torrent of Popular Mad<g ref="char:EOLhyphen"/>neſs, were willing <hi>to ſwim with the Stream:</hi> Nor of thoſe who would <hi>Trim</hi> the Boat, and ſo they could ſeem to keep it even, care not much which way they Sayle. But he was ſtill the ſame Man, and the ſame good Subject: One who made nothing worſe; but endeavoured to make every thing better: To ſay all in a word, <hi>One Immovably Honeſt, unalterably Loy<g ref="char:EOLhyphen"/>al:</hi> For which he ſhall live in the Memories of all that knew him, and long be had in <hi>Honour</hi> and <hi>Re<g ref="char:EOLhyphen"/>membrance.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> There is yet another part of the <hi>Remem<g ref="char:EOLhyphen"/>brance</hi> behind, which is moſt properly <hi>Everlaſting, viz. before God hereafter. His Righteouſneſs remain<g ref="char:EOLhyphen"/>eth for ever (Verſe</hi> 9) It ſhall come in Remembrance before God, when the Righteous ſhall receive a Re<g ref="char:EOLhyphen"/>ward, not of Merit indeed, but of Favour; who tho they cannot claim it of right, yet in Gods E<g ref="char:EOLhyphen"/>ſteem do beſt deſerve it; tho they cannot challenge it as a Crown due from his Juſtice, yet they ſhall re<g ref="char:EOLhyphen"/>ceive it from his Mercy.</p>
+            <pb n="23" facs="tcp:106354:17"/>
+            <p>And could we but raiſe our Souls in Contempla<g ref="char:EOLhyphen"/>tion high as their Happineſs, it would be a power<g ref="char:EOLhyphen"/>ful Encouragement to an Imitation of their Virtue: For then we ſhould be in ſome Meaſure able to ima<g ref="char:EOLhyphen"/>gine how mean and deſpicable this Worlds Felicity muſt needs appear to Glorifyed Spirits, to whoſe compleat Happineſs all the Content and Satisfaction we meet with here bears no more Proportion, then this ſpot of Earth we tread on to the unbounded vaſtneſs of the wide-Stretch'd Heavens. For when they are once exalted into thoſe <hi>Bliſsful Regions,</hi> they ſhall out-ſhine others in Glory, as far as they out-ſtript them in Goodneſs here, and receive a recompenſe of reward proportionable to their Righteouſneſs and good Deeds; and when the Son of God has received them into thoſe manſions of Bliſs which he has pre<g ref="char:EOLhyphen"/>pared for Holy Souls in the Kingdom of his <hi>Father,</hi> then ſhall their Righteouſneſs break forth as the Morning Sun, and exceed the Stars in Luſtre and Beauty. The Heathens imagin'd that their deceaſed <hi>Hero's</hi> were transformed into Starrs, and having en<g ref="char:EOLhyphen"/>lightned the lower World with their Beneficence and good Examples, did after Death aſcend <hi>to Gild</hi> the Heavens with new Light and Brightneſs: and were it true, yet it falls far ſhort of that ſplendor that ſhall encircle the <hi>Inhabitants of the new</hi> Jeruſalem, <hi>for the</hi>
+               <note place="margin">Mat. 13. 43.</note> 
+               <hi>Righteous</hi> ſhall Shine forth as the Sun, in the King<g ref="char:EOLhyphen"/>dome of their Father. Yea as Starrs diſappear at the approach of the Sun, ſo ſhall the Sun it ſelf vaniſh at the appearance of that reſplendent Glory, when the <hi>Sun of Righteouſneſs</hi> ſhall ſhine in his Meridian Luſtre, and fill his Kingdome with the Brightneſs of his preſence, then ſhall holy Souls rejoyce in his light, with fulneſs of joy, and tranſports of pleaſure,
+<pb n="24" facs="tcp:106354:18"/> and glory to behold their Saviour interceeding for the <hi>Righteous,</hi> and welcoming ſuch as come under that winning Character into Eternal Embraces, where they ſhall be bleſied to endleſs ages, and happy in an <hi>Everlaſting Remembrance.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <pb n="25" facs="tcp:106354:18"/>
+            <head>AN ELEGY UPON Sir <hi>ROGER BRADSHAIGH,</hi> KNIGHT and BARONET. <hi>April</hi> the <hi>4th</hi> 1684.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>WHat mean theſe Eccho'd Groans, and Panic Fears,</l>
+               <l>And Showers of Tears?</l>
+               <l>Why does a gloomy Fog, choak and deſtroy</l>
+               <l>Our <hi>Eaſter</hi> Joy?</l>
+               <l>Why one day Publick Mirth, and on the Morrow</l>
+               <l>As <hi>Publick Sorrow?</hi>
+               </l>
+               <l>What's the <hi>Surprize,</hi> whence is this Mourning Bred?</l>
+               <l>Alas! <hi>the Great, the Good Sir Roger's</hi> Dead.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>In Loyal veins if Loyal blood e're ran,</l>
+               <l>This was the man.</l>
+               <pb n="26" facs="tcp:106354:19"/>
+               <l>Did <hi>Love,</hi> and <hi>Peace</hi> 'mongſt Mortals ever reſt?</l>
+               <l>Here was the Breaſt.</l>
+               <l>Did <hi>Juſtice</hi> ever dwell with Humane State?</l>
+               <l>Here was its Soul, here was its Seat.</l>
+               <l>If <hi>Heart,</hi> and <hi>Tongue</hi> true <hi>
+                     <g ref="char:V">Ʋ</g>niſons</hi> e're were:</l>
+               <l>Then it was here.</l>
+               <l>And hath the <hi>Virgin-Church</hi> a true-bred Son?</l>
+               <l>Then this was one.</l>
+               <l>Do's <hi>Charity</hi> once in an Age appear?</l>
+               <l>She took her <hi>Lodgings</hi> here.</l>
+               <l>And yet this <hi>Loyal, Loving, Peaceful, juſt,</hi>
+               </l>
+               <l>
+                  <hi>Sincere, Kind, Genuine</hi> Son muſt yield to duſt.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Tell not this News in <hi>Caeſars</hi> Court, leſt he</l>
+               <l>Should Mourn as much as We.</l>
+               <l>Be ſilent <hi>Fame!</hi> leſt he for one long day</l>
+               <l>Should not the Scepter ſway.</l>
+               <l>Should <hi>Phaebus</hi> one days ſpace deny to throw</l>
+               <l>His Beams, the World would chill, and Stupid grow.</l>
+               <l>And ſhould <hi>Great Charles</hi> but half that time diſpence,</l>
+               <l>No Act of <hi>Juſtice,</hi> no kind Influence:</l>
+               <l>This bleſſed <hi>Eden,</hi> and this fruitful Iſle,</l>
+               <l>Would thence become a Frozen, barren Soyl.</l>
+               <l>Peace then! let not the Meaneſt, Smalleſt Part,</l>
+               <l>Of this our Sorrow ſeize Kind <hi>Charles</hi>'s heart.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Tell not the <hi>Loyal Party</hi> this, leſt they,</l>
+               <l>(Looſing ſo Strong <hi>A Fort</hi>) ſhould Fear betray.</l>
+               <l>Conceal this Mournful Sence from <hi>Juſt Mens</hi> ſight,</l>
+               <l>Leſt feebl'd <hi>Juſtice</hi> take a Second flight.</l>
+               <pb n="27" facs="tcp:106354:19"/>
+               <l>Let <hi>Peaceful Souls</hi> be <hi>Strangers</hi> to this Fate;</l>
+               <l>Leſt it <hi>Alar'm,</hi> and <hi>ruffle</hi> their calm State.</l>
+               <l>O tell it not to <hi>Sions</hi> Sons! leſt thy,</l>
+               <l>Amaz'd, forbear to thank, forget to Pray.</l>
+               <l>Where <hi>Charity</hi> now moves in a large Sphere,</l>
+               <l>Leſt it cloſe-up her hands; tell it not there.</l>
+               <l>This News deſpoils of Joy, this robs of Reſt,</l>
+               <l>The <hi>Loyal, Loving, juſt</hi> and <hi>Hoſpitable Breaſt.</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>But 'tis too late; Fame cannot be withſtood,</l>
+               <l>(Fame ſwift to broach bad News, ſlow to bring good)</l>
+               <l>Then let this <hi>Publick mouth</hi> loudly Proclaim</l>
+               <l>The <hi>Old-Mans Glories,</hi> and the <hi>Young-Mans Name.</hi>
+               </l>
+               <l>Tell it abroad! that tho <hi>a Glorious</hi> Star,</l>
+               <l>Is ſet, yet ſtill another does appear.</l>
+               <l>Tho the Old <hi>Phaenix</hi> from our Coaſt is flown,</l>
+               <l>Yet here's another Strong and ſprightly grown.</l>
+               <l>
+                  <hi>One,</hi> that inherits with Impartial Hand</l>
+               <l>His Fathers <hi>Vertues,</hi> with his Fathers <hi>Land.</hi>
+               </l>
+               <l>May he do equal <hi>Good</hi> in equal <hi>Space,</hi>
+               </l>
+               <l>As <hi>Worthy Heir</hi> of ſuch <hi>a Worthy Race.</hi>
+               </l>
+               <l>And when Life's ſtock ſhall all exhauſted be,</l>
+               <l>Then may he ſcale the <hi>Walls</hi> of bleſt <hi>Eternity.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>EPITAPHIUM.</head>
+               <l>Hic jacet in Tumulo, <hi>Pacis, Patriaeque</hi> ſatelles;</l>
+               <l>Qui coluit <hi>Caroli</hi> faedera, jura Dei.</l>
+               <l>Cujus <hi>dicta</hi> ſimul Clariſſima <hi>facta</hi> ferebant,</l>
+               <l>Vultu <hi>Laetus</hi> erat, <hi>Liber</hi> &amp; ille Manu.</l>
+               <l>Hunc dilexerunt omnes, hunc <hi>Caeſar</hi> amavit:</l>
+               <pb n="28" facs="tcp:106354:20"/>
+               <l>Hunc exornavit <hi>Gloria, Forma, Lepos.</hi>
+               </l>
+               <l>
+                  <hi>Vivat, &amp; immenſum vigeat productus in Aevum;</hi>
+               </l>
+               <l>
+                  <hi>Morbis, Morte vacet:</hi> Sic petiere pii.</l>
+               <l>Fata tamen vincunt; illorum Nemo <hi>Catenam</hi>
+               </l>
+               <l>Solvere, <hi>Conatus</hi> frangere Nemo poteſt.</l>
+               <l>Fallor, <hi>non jacet hic:</hi> Animus tranſivit ad Aſtra</l>
+               <l>Lucida, &amp; hic tantùm <hi>Pulvis</hi> &amp; <hi>Umbra</hi> jacet.</l>
+            </lg>
+            <closer>
+               <signed>S. Shaw A. M.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106354:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
